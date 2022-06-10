@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "90d39e68d1bb0250",
+    "type": "split",
+    "children": [
+      {
+        "id": "18aa837d8be32848",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/formerly-privateish-thought.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "726742b910def023",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0683daeafa0656c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9beba7eab1a3b3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bfb210a0a55df37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5036334991455
+  },
+  "right": {
+    "id": "7fac736af6b6f92e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bb8482fdb274c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918fb1f1c53577f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/formerly-privateish-thought.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18aa837d8be32848",
+  "lastOpenFiles": [
+    "posts/formerly-privateish-thought.md",
+    "books/atomic-habits.md",
+    "posts/large-hadron-collider.md",
+    "books/philosophy-of-software-design.md",
+    "posts/postable-thought.md",
+    "templates/post.md",
+    "templates/book.md",
+    "books/refactoring-ui.md",
+    "books/dont-make-me-think.md",
+    "_assets/philosophy-of-software-design.jpeg"
+  ]
+}
